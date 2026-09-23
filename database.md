@@ -14,3 +14,11 @@ Read
 Update
 Delete.
 aproximate incredible .
+database er sathe kotha bolte help kore .
+sql is a programming language used to interact with relational databasaes. 
+it is used to perform CRUD operations:
+Create
+Read
+Update
+Delete.
+aproximate incredible .
