@@ -23,6 +23,9 @@ Delete.
 aproximate incredible .
 
 PHP is an amazing and popular language!
+aproximate incredible .
+
+PHP is an amazing and popular language!
 
 PHP is powerful enough to be at the core of the biggest blogging system on the web!
 PHP is deep enough to run large social networks!
