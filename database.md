@@ -23,6 +23,10 @@ Delete.
 aproximate incredible .
 
 PHP is an amazing and popular language!
+Delete.
+aproximate incredible .
+
+PHP is an amazing and popular language!
 aproximate incredible .
 
 PHP is an amazing and popular language!
