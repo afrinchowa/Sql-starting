@@ -24,6 +24,8 @@ if x > 15:
     print("x is greater than 15")
 elif x > 10:
     print("x is greater than 10")
+elif x > 5:
+    print("x is greater than 5")
 else:
     print("x is not greater than 10")
     
@@ -32,6 +34,8 @@ x = 10
 if x > 5:
     if x > 8:
         print("x is greater than 8")
+    if x > 10:
+        print("x is greater than 10")    
     else:
         print("x is not greater than 8")
         
@@ -39,5 +43,9 @@ if x > 5:
 x = 10
 if x > 5:
     pass  # do nothing
+
+# short hand if statement
+x = 10
+if x > 5: print("x is greater than 5")
 
 # end of conditional statements
