@@ -54,6 +54,12 @@ elif num < 100:
     print("The number is a double digit.")
 else:
     print("The number is a triple digit.")
+if num < 10:
+    print("The number is a single digit.")
+elif num < 100:
+    print("The number is a double digit.")
+else:
+    print("The number is a triple digit.")
     
     
     
